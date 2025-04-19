@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #f4d04e;
+}
+
+main {
+    background-color: white;
+    margin: 5% 35%;
+    padding: 2% 2.4%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 2px black;
+    font-family: 'Figtree';
+}
+
+.learning {
+    background-color: #f4d04e;
+    width: 30%;
+    padding: 0 0 0 25px;
+    border-radius: 5px;
+}
+
+
+
+.flex {
+    display: flex;
+}
+
+.flex img {
+    transform: scale(70%);
+    margin-right: 10px;
+}
+
+.ilustration {
+    width: 330px;
+    border-radius: 20px;
+}
